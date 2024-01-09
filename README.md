@@ -3,7 +3,7 @@ Window Screen Width Counter in React
 A lightweight React component for effortlessly tracking and displaying your window's width. 
 This repository provides a simple and efficient React component that tracks the window.innerWidth and displays it in a customizable way.
 
-Perfect for:  Responsive design debugging: Easily see how your UI adapts to different screen sizes.
+<b>Perfect for:  Responsive design debugging: Easily see how your UI adapts to different screen sizes.</b>
 Reactive updates: Automatically rerenders when the window size changes. Easy to use: Simple integration with your existing React components. 
 Benefits:  Save development time: Eliminate the need to manually track and manipulate window size information. 
 Improve responsiveness: Develop layouts that adapt seamlessly to any screen size. Enhance user experience: Tailor your app's behavior to different devices and viewing contexts.
@@ -18,10 +18,10 @@ Help others by answering questions and spreading the word! This repository is de
 Keywords: React, window width, responsive design, dynamic layout, user experience, lightweight, performant, customizable, reactive 
 
 This description includes:  
-#A clear and concise overview of the project.
-A list of key features and benefits. 
-Instructions on how to get started.
-A call to action for the community.
-Relevant keywords for discoverability.#
+#A clear and concise overview of the project.\n
+A list of key features and benefits.\n
+Instructions on how to get started.\n
+A call to action for the community.\n
+Relevant keywords for discoverability.#\n
 
 Feel free to adjust the description to match your specific project details and target audience. I hope this helps!
