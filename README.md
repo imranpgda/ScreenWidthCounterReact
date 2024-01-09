@@ -19,9 +19,9 @@ Keywords: React, window width, responsive design, dynamic layout, user experienc
 
 This description includes:  
 #A clear and concise overview of the project.\n
-A list of key features and benefits.\n
-Instructions on how to get started.\n
-A call to action for the community.\n
-Relevant keywords for discoverability.#\n
+A list of key features and benefits.
+Instructions on how to get started.
+A call to action for the community.
+Relevant keywords for discoverability.#
 
 Feel free to adjust the description to match your specific project details and target audience. I hope this helps!
